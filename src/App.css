@@ -89,7 +89,7 @@ header h2 {
 
   .home {
     grid-template: 
-     "...... ...... ...... " 30px
+     "...... ...... ......" 30px
      "...... header ......" 60px
      "...... ...... ......"
      "...... form   ......" 80px
@@ -108,7 +108,7 @@ header h2 {
   }
 }
 
-/* Descriptionコンポーネント */
+/* Description.js */
 .description {
   width: 50%;
   height: 100vh;
